@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div>
         <section id="gallery" class="gallery">
 
@@ -193,4 +193,4 @@ export default {
 </script>
 
 
-
+ -->
