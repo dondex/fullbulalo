@@ -29,12 +29,12 @@ class BookReservationController extends Controller
         $ip_address = $request->ip();
 
         // Check if there is a previous booking from the same IP address
-        $previousReservation = BookReservation::where('ip_address', $ip_address)->first();
-        if ($previousReservation) {
-            return response()->json([
-                'message' => 'You already have a reservation'
-            ], 422);
-        }
+        // $previousReservation = BookReservation::where('ip_address', $ip_address)->first();
+        // if ($previousReservation) {
+        //     return response()->json([
+        //         'message' => 'You already have a reservation'
+        //     ], 422);
+        // }
 
         $reservation = new BookReservation();
         $reservation->name = $request->name;

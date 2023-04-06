@@ -44,7 +44,8 @@
                     <div class="error-message"></div>
                     <div class="sent-message">Your booking request was sent. We will call back or send an Email to confirm your reservation. Thank you!</div>
                 </div> -->
-                <div class="text-center my-5"><button class="theme-button" :disabled="reservationMade" type="submit">{{ reservationMade ? 'Reservation Made' : 'Book a Table' }}</button></div>
+                <!-- <div class="text-center my-5"><button class="theme-button" :disabled="reservationMade" type="submit">{{ reservationMade ? 'Reservation Made' : 'Book a Table' }}</button></div> -->
+                <div class="text-center my-5"><button class="theme-button" type="submit">{{ form.success ? 'Reservation Made' : 'Book a Table' }}</button></div>
                 </form>
 
             </div>

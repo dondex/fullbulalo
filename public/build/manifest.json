@@ -1,0 +1,86 @@
+{
+  "node_modules/boxicons/fonts/boxicons.eot": {
+    "file": "assets/boxicons-c23887bb.eot",
+    "src": "node_modules/boxicons/fonts/boxicons.eot"
+  },
+  "node_modules/boxicons/fonts/boxicons.svg": {
+    "file": "assets/boxicons-3fe502d8.svg",
+    "src": "node_modules/boxicons/fonts/boxicons.svg"
+  },
+  "node_modules/boxicons/fonts/boxicons.ttf": {
+    "file": "assets/boxicons-47509a2d.ttf",
+    "src": "node_modules/boxicons/fonts/boxicons.ttf"
+  },
+  "node_modules/boxicons/fonts/boxicons.woff": {
+    "file": "assets/boxicons-d5d511cf.woff",
+    "src": "node_modules/boxicons/fonts/boxicons.woff"
+  },
+  "node_modules/boxicons/fonts/boxicons.woff2": {
+    "file": "assets/boxicons-4b87cbc7.woff2",
+    "src": "node_modules/boxicons/fonts/boxicons.woff2"
+  },
+  "resources/img/about-bulalo.jpg": {
+    "file": "assets/about-bulalo-6fab4f84.jpg",
+    "src": "resources/img/about-bulalo.jpg"
+  },
+  "resources/img/cover-bulalo.jpg": {
+    "file": "assets/cover-bulalo-63ef31e5.jpg",
+    "src": "resources/img/cover-bulalo.jpg"
+  },
+  "resources/img/hero1-no-logo.png": {
+    "file": "assets/hero1-no-logo-6bc80805.png",
+    "src": "resources/img/hero1-no-logo.png"
+  },
+  "resources/img/hero5-lomi.png": {
+    "file": "assets/hero5-lomi-c5c611e6.png",
+    "src": "resources/img/hero5-lomi.png"
+  },
+  "resources/img/hero7-no-logo-and-price.png": {
+    "file": "assets/hero7-no-logo-and-price-8c91c8a6.png",
+    "src": "resources/img/hero7-no-logo-and-price.png"
+  },
+  "resources/img/hero8-bulalo.png": {
+    "file": "assets/hero8-bulalo-6b17132e.png",
+    "src": "resources/img/hero8-bulalo.png"
+  },
+  "resources/img/logo_3.png": {
+    "file": "assets/logo_3-da0b1449.png",
+    "src": "resources/img/logo_3.png"
+  },
+  "resources/img/videos/bulalo-video.mp4": {
+    "file": "assets/bulalo-video-a8585769.mp4",
+    "src": "resources/img/videos/bulalo-video.mp4"
+  },
+  "resources/img/videos/vip_room.mp4": {
+    "file": "assets/vip_room-e09d7bd4.mp4",
+    "src": "resources/img/videos/vip_room.mp4"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-8490fd9c.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/logo_3-da0b1449.png",
+      "assets/bulalo-video-a8585769.mp4",
+      "assets/vip_room-e09d7bd4.mp4",
+      "assets/about-bulalo-6fab4f84.jpg",
+      "assets/hero8-bulalo-6b17132e.png",
+      "assets/hero5-lomi-c5c611e6.png",
+      "assets/hero7-no-logo-and-price-8c91c8a6.png",
+      "assets/hero1-no-logo-6bc80805.png",
+      "assets/boxicons-c23887bb.eot",
+      "assets/boxicons-4b87cbc7.woff2",
+      "assets/boxicons-d5d511cf.woff",
+      "assets/boxicons-47509a2d.ttf",
+      "assets/boxicons-3fe502d8.svg",
+      "assets/cover-bulalo-63ef31e5.jpg"
+    ],
+    "css": [
+      "assets/app-8490fd9c.css"
+    ],
+    "file": "assets/app-8e5a32a0.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
